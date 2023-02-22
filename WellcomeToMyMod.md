@@ -69,7 +69,19 @@ the current update is 2.0.1 and here all what we added to this update:
 - fixed the mod's profile not showing in the MOD's page.
 - Updaed the license.
 
-#How to download the mod?
+# How to download and activate the mod?
+
+1- Got to Lost_Soul.CRX
+2- Download the file
+3- Go to where you downloaded the file and double click the file
+4- Press open with Opera GX
+
+once you have done that the mode will b activated
+
+
+## Nothing to read here
+
+i just wanted to say thank you if you are going to support me by using my mod, thats it now have  good day.
 
   
   

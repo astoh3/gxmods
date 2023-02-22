@@ -72,9 +72,17 @@ the current update is 2.0.1 and here all what we added to this update:
 # How to download and activate the mod?
 
 1- Got to Lost_Soul.CRX
+
+![20230222_183132 00_00_00-00_00_30](https://user-images.githubusercontent.com/125594340/220674412-185156d8-e909-455f-bc54-2879565b159c.gif)
+
 2- Download the file
-3- Go to where you downloaded the file and double click the file
-4- Press open with Opera GX
+
+![20230222_183205 00_00_00-00_00_30](https://user-images.githubusercontent.com/125594340/220674544-fca45fa1-92dd-442d-8769-10bb563fad97.gif)
+
+3- Go to where you downloaded the file then double click the file and press press open with Opera GX internet browser
+
+![20230222_183402 00_00_00-00_00_30](https://user-images.githubusercontent.com/125594340/220675113-13ee5da6-502d-4fde-a676-5809cbd1e49c.gif)
+
 
 once you have done that the mode will b activated
 
